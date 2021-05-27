@@ -21,4 +21,5 @@ Open your terminal and navigate to the root level directory of the application. 
 ## Links
 
 [Application](https://github.com/zachraab/employee-tracker)  
-[GitHub](https://github.com/zachraab/employee-tracker)
+[GitHub](https://github.com/zachraab/employee-tracker)  
+[Video Walkthrough](https://youtu.be/kQbrnfSvMsU)
