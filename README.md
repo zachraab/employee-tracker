@@ -10,9 +10,11 @@ This is a back-end, command-line application that makes it easy to manage a comp
 - [Usage Information](#Usage-Information)
 - [Links](#links)
 
+![Screenshot of Application](./images/screenshot.png)
+
 ## Installation Instructions
 
-Open your terminal and navigate to the root level directory. Run `npm i` to install all necessary packages.
+Install NodeJS [HERE](https://nodejs.org/en/). Install MySQL Workbench and Shell for the application database [HERE](https://dev.mysql.com/downloads/windows/installer/8.0.html) and [HERE](https://dev.mysql.com/downloads/shell/). Open your terminal and navigate to the root level directory. Run `npm i` to install all necessary node packages. Copy and paste the schema.sql from the root directory into your MySQL workbench and run the code in order to generate the necessary tables for the database.
 
 ## Usage Information
 
