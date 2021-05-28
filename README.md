@@ -21,7 +21,6 @@ Install NodeJS [HERE](https://nodejs.org/en/). Install MySQL Workbench and Shell
 Open your terminal and navigate to the root level directory of the application. Run `npm start` or `node server.js` to start the application. Follow the prompted questions in the terminal. Select `Exit Prompt` when you have completed managing your company.
 
 ## Links
-
-[Application](https://github.com/zachraab/employee-tracker)  
+ 
 [GitHub](https://github.com/zachraab/employee-tracker)  
 [Video Walkthrough](https://youtu.be/kQbrnfSvMsU)
